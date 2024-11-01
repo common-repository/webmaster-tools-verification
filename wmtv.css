@@ -1,0 +1,111 @@
+
+clear{clear:both;}
+.af-form-wrapper { text-align:center; }
+.help-form-wrapper { width: 250px; border:1px solid #ececec; padding:0 10px; margin:10px 0}
+.privacyPolicy { display: block; margin-top:10px;font-style:italic; font-size: .8em;}
+
+
+#bsbmadmin .intro {
+    color: #353535;
+    margin: 1em 0 0.5em;
+    padding: 2px 0.5em;
+}
+
+.inside {
+    margin: 10px;
+    position: relative;
+}
+
+.inside h4 {
+	font-size:1.2em;
+	margin:0;
+	padding:10px 0 0 0;
+}
+
+.fieldset {
+    margin: 0.5em 0;
+    padding: 6px 0.5em;
+}
+
+dl {
+    clear: both;
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+}
+
+dl dt {
+    clear: both;
+    cursor: default;
+    float: left;
+    font-size: 12px;
+    margin: 6px 0;
+    padding: 2px 8px 10px 2px;
+}
+
+dl dt label {
+    color: #454545;
+    cursor: default;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+dl dt p {
+    border-top: 1px dotted #DFDFDF;
+    color: #999999;
+    font-size: 0.9em;
+    line-height: 1.1em;
+    margin-top: 1px;
+    padding-top: 6px;
+}
+
+
+dl:hover dt p { color:#2a76bc; }
+
+dl dd span {
+    font-size: 12px;
+    margin: 0 3em 0 0.5em;
+    position: relative;
+    top: 2px;
+}
+
+
+
+dl dd {
+    color: #333333;
+    float: left;
+    margin: 10px 0;
+    padding: 0px 0 0 10px;
+    width: 60%;
+}
+
+dl dd p.sub1 {
+	clear:both;
+	margin:0;
+	padding:2px 0;
+}
+
+dl p.sub2 {
+	clear: both;
+   	font-size: 1.0em; 
+	color:#999999; 
+	margin-bottom:25px;
+}
+
+.postbox .inside {
+    padding: 10px;
+}
+
+.srpt_submit.center {
+    text-align: center;
+}
+
+kbd, code {
+    background: none repeat scroll 0 0 transparent !important;
+}
+
+kbd, code {
+    font-size: 11px;
+    margin: 0 1px;
+    padding: 1px 3px;
+}
